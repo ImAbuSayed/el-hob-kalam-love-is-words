@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | El Hob Kalam – Love is Words |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/el-hob-kalam-love-is-words/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي تعال في حضني الليلة
+> أنا روحي بتنادي في العتمة الطويلة.. العتمة الطويلة..
+> شوقك نار بتكوي قلبي من جوا
+> سحر عيونك هو الدوا والقوة
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
