@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/el-hob-kalam-love-is-words/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for El Hob Kalam – Love is Words](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
