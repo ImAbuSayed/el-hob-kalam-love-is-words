@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El Hob Kalam – Love is Words
+
+This log tracks the cryptographic history and versioning for the song **El Hob Kalam – Love is Words** (el-hob-kalam-love-is-words).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:47:47.234482 | `v1` | `96c2a56deb4b53c7663aa239e372951932954615e440384bff84a7c9d3777792` | `86df1be99dd2822355adbcb13904e73f322cd502141a9c154b7b1d3fd3560a56` | `2026-05-09_el-hob-kalam-love-is-words-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
